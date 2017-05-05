@@ -6,8 +6,10 @@
 Delivery Routes
 =============================
 
-Based on Cubic ERP's Delivery Routes Module
-it add the following features:
+Based on original Cubic ERP's Delivery Routes Module
+
+It add the following features:
+
 * Add group Customer Service
 * Add dts_id in purchase order, A purchase order with flag is_collected can have a delivery_route_line
 * Improve DTS , PTS. 
@@ -28,7 +30,6 @@ Contributors
 
 * Eric Caudal <eric.caudal@elico-corp.com>
 * Chen Rong <chen.rong@elico-corp.com>
-* 
 
 Maintainer
 ----------
