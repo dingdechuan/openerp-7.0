@@ -7,7 +7,7 @@
         You can send feedback to info@emiprotechnologies.com,
  
         """,
-    "version": "7.0",
+    "version": "7.0.1.0.0",
     "author" : "Emipro Technologies",
     "website" : "http://www.emiprotechnologies.com",
     "category" : "Tools",
